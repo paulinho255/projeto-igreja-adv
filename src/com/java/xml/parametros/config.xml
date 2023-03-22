@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>ARQUIVO DE CONFIGURAÇÃO:</comment>
+<entry key="urlbd">jdbc:postgresql://localhost:5432/</entry>
+<entry key="senha">postgres</entry>
+<entry key="usuario">postgres</entry>
+<entry key="nomebd">db_igreja_adv</entry>
+</properties>
